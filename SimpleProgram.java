@@ -4,9 +4,9 @@ public class sayHello {
 		
 		System.out.println("Hello World!");
 
-		int x  = 5;
+		int x  = 12;
 		int y = 4;
-		int z = x +y;
+		int z = x * y;
 
 		System.out.println("The sum is : " + z);
 	}
